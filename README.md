@@ -23,7 +23,10 @@ drops abnormally in 2018 -62.6% so this stock is very volatile,however “AY” 
 “AY” stock drops to -7.3% so this stock neither goes up too much nor does it drops too much,so this can be an option
 for his parents if they decide to invest in “AY” provided it gives good dividend support.
 
-![](Resources/Stock_Analysis_2017.png?raw=true)![image](https://user-images.githubusercontent.com/79482680/111932946-7a7d0400-8a8c-11eb-9f9e-d3b1630651fa.png)
+![image](https://user-images.githubusercontent.com/79482680/111932946-7a7d0400-8a8c-11eb-9f9e-d3b1630651fa.png)
+
+![](Resources/Stock_Analysis_2018.png?raw=true)![image](https://user-images.githubusercontent.com/79482680/111933089-c29c2680-8a8c-11eb-87e0-bb2b029c6d00.png)
+
 
 
 Again from 2017 “ESPH” shows an increase of 129.5% and in 2018 “ENPH” stock is at 81.9% which is definitely  
