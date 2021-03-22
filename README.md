@@ -44,10 +44,11 @@ time taking is 0.1875  but  in original  code it is taking 1.283203s and in 2017
 ## Summary
 
 1.What are the advantages or disadvantages of refactoring code?
-The advantages of using refractoring code is that it runs faster,since no nested for loop is working.
-The disadvantages of refractoring code is that it will work only if the data are sorted.
+
+  A. The advantages of using refractoring code is that it runs faster,since no nested for loop is working.
+  B. The disadvantages of refractoring code is that it will work only if the data are sorted.
+  
 2.How do these pros and cons apply to refactoring the original VBA script?
-The pros of refractoring the original VBA script is that the results can be seen very quickly
- as it is more efficient way of  writing the code specially if the dataset is very big.
-The cons of VBA script is that the code will work only if the data is sorted.
+ A. The pros of refractoring the original VBA script is that the results can be seen very quickly as it is more efficient way of  writing the code specially if the dataset is very big.
+ B. The cons of VBA script is that the code will work only if the data is sorted.
 
