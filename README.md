@@ -32,8 +32,8 @@ for his parents if they decide to invest in “AY” provided it gives good divi
 Again from 2017 “ENPH” stock shows an increase of 129.5% and in 2018 “ENPH” stock is at 81.9% which   
 can be consider as an option to invest,but definitely not “DQ” as this  stock is more volatile.
 So Steve decided to do analysis on multiple stocks using refractoring of “DQ” stock with little change in ticker arrays
-the code is running faster in refractoring code which shows that for 2018 the time taken is 0.1835938 and in 2017 the
-time taking is 0.1875  but  in original  code it is taking 1.283203s and in 2017 it takes 1.281255s
+the code is running faster in refractoring code which shows that for 2018 the time taken is 0.2021484 and in 2017 the
+time taken is 0.197998  but  in original  code it is taking 1.283203s and in 2017 it takes 1.281255s
 
 ![](Resources/VBA_Challenge_2017.png?raw=true)
 
