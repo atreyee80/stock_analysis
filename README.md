@@ -21,7 +21,10 @@ Color formating helps to give the results easily where “Green” color shows t
 The images for both the year 2017 and 2018 shows that in 2017 the yearly return for “DQ” is 199.4% but it
 drops abnormally in 2018 -62.6% so this stock is very volatile,however “AY” stock for 2017 is 8.9% and in 2018
 “AY” stock drops to -7.3% so this stock neither goes up too much nor does it drops too much,so this can be an option
-for his parents if they decide to invest in “AY” provided it gives good dividend support .
+for his parents if they decide to invest in “AY” provided it gives good dividend support.
+
+![](Resources/Stock_Analysis_2017.png?raw=true)![image](https://user-images.githubusercontent.com/79482680/111932946-7a7d0400-8a8c-11eb-9f9e-d3b1630651fa.png)
+
 
 Again from 2017 “ESPH” shows an increase of 129.5% and in 2018 “ENPH” stock is at 81.9% which is definitely  
  can be consider as an option to invest,but definitely not “DQ” as this  stock is more volatile.
