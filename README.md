@@ -10,7 +10,6 @@ VBA will help to automate the task easily and efficiently without any errors.
 Steve will check for All Stock Analysis and will conclude which will be a better choice.Refractoring code will
 be used to compare the efficiency of both years 2017 and 2018.
 
-![image](https://user-images.githubusercontent.com/79482680/111932132-d3e43380-8a8a-11eb-92d0-1497996fb9a7.png)
 
 ## Results
 So from the analysis it shows that in 2017 “DQ” return is 199.4% while in 2018 “DQ” returns drop to -62.6%
