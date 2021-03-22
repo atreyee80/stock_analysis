@@ -24,3 +24,6 @@ drops abnormally in 2018 -62.6% so this stock is very volatile,however “AY” 
 “AY” stock drops to -7.3% so this stock neither goes up too much nor does it drops too much,so this can be an option
 for his parents if they decide to invest in “AY” provided it gives good dividend support .
 ![image](https://user-images.githubusercontent.com/79482680/111932184-eb232100-8a8a-11eb-9795-106c6bc81c0b.png)
+
+![image](https://user-images.githubusercontent.com/79482680/111932247-0857ef80-8a8b-11eb-86e6-22e3858f6f29.png)
+
