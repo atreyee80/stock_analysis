@@ -1,5 +1,5 @@
 # stock_analysis
-Test
+
 
 ## Overview of Project
 Steve is freshly graduated and his parents wants to invest in stock,his parents believe that if fossil fuel ends
